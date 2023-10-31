@@ -1,3 +1,3 @@
 # js-project
 
-## Hosted Link ->
+## Hosted Link ->https://aadarsh-raj.github.io/js-project/index.html
